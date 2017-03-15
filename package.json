@@ -1,0 +1,11 @@
+{
+  "name": "s3sync ",
+  "description": "sync new s3 objects to another bucket.",
+  "version": "1.0.0",
+  "author": "Jonny Wheeler jonny@rentify.com",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.7.9",
+    "async": "^2.1.2"
+  }
+}
